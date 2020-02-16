@@ -9,5 +9,5 @@ while True:
     if c == d:
         print('Richtig!')
     else:
-        print('Falsch\nGame Over')
+        print('Falsch!\nGame Over')
         break
