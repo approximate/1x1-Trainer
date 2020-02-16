@@ -9,9 +9,9 @@ while True:
     print(a, 'x', b, '= ', end='')
     c = int(input(''))
     if c == d:
-        print('Richtig!')
+        print('Right!')
         score += 1
     else:
         print('Game Over')
-        print("Deine Punkte =", score)
+        print("Scores =", score)
         break
